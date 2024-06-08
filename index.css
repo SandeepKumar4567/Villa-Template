@@ -1,0 +1,550 @@
+.secondpage{
+    height: 500px;
+    width: 1300px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.imgview{
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.best{
+    margin-top: -400px;
+    margin-left: 700px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.secondpage2{
+    height: 300px;
+    width: 300px;
+    margin-left: 700px;
+}
+.secondpage2 h3{
+    color: rgb(234, 139, 79);
+}
+.secondpage2 p{
+    text-indent: 40px;
+}
+.asidepage{
+    border-radius: 20px;
+    background-color: rgb(151, 151, 149);
+    height: 450px;
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: -480px;
+    box-shadow: 10px 10px 10px rgb(109, 104, 104);
+}
+.asidepage i{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: x-large;
+    transition-duration: 0.5s;
+}
+i:hover{
+    color:  rgb(234, 139, 79);
+}
+.thirdpage{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.thirdpage img{
+    filter: blur(10px);
+}
+.thirdpage p{
+    position: sticky;
+    margin-top: -500px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.thirdpage video{
+    position: sticky;
+    margin-top: 100px;
+    margin-left: 350px;
+}
+.thirdhalf34{
+    margin-top: 80px;
+    margin-left: 400px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: rgb(221, 173, 165);
+    border-radius: 20px;
+    height: 80px;
+    width: 200px;
+    transition-duration: 0.5s;
+}
+.thirdhalf34:hover{
+    box-shadow: 10px 10px 10px rgb(75, 75, 75);
+    background-color: black;
+    color: orangered;
+}
+.thirdhalf34 h2{
+    margin-left: 10px;
+    color: tomato;
+}
+.thirdhalf34 p{
+    margin-top: -50px;
+    margin-left: 50px;
+}
+.thirdhalf12{
+    margin-top: -90px;
+    margin-left: 700px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: rgb(221, 173, 165);
+    border-radius: 20px;
+    height: 80px;
+    width: 200px;
+    transition-duration: 0.5s;
+}
+.thirdhalf12:hover{
+    box-shadow: 10px 10px 10px rgb(75, 75, 75);
+    background-color: black;
+    color: orangered;
+}
+.thirdhalf12 h2{
+    margin-left: 10px;
+    color: tomato;
+}
+.thirdhalf12 p{
+    margin-top: -50px;
+    margin-left: 50px;
+}
+.thirdhalf24{
+    margin-top: -90px;
+    margin-left: 1000px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: rgb(221, 173, 165);
+    border-radius: 20px;
+    height: 80px;
+    width: 200px;
+    transition-duration: 0.5s;
+}
+.thirdhalf24:hover{
+    box-shadow: 10px 10px 10px rgb(75, 75, 75);
+    background-color: black;
+    color: orangered;
+}
+.thirdhalf24 h2{
+    margin-left: 10px;
+    color: tomato;
+}
+.thirdhalf24 p{
+    margin-top: -50px;
+    margin-left: 50px;
+}
+.thirdhalf34 i{
+margin-left: 180px;
+font-size: xx-large;
+margin-top: -10px;
+}
+.thirdhalf12 i{
+    margin-left: 180px;
+    font-size: xx-large;
+    margin-top: -10px;
+}
+.thirdhalf24 i{
+    margin-left: 180px;
+    font-size: xx-large;
+    margin-top: -10px;
+}
+.fourthpage{
+    margin-top: 100px;
+}
+.secondnav{
+   display: flex;
+   column-gap: 50px;
+   /* width: 600px; */
+   margin-left: 1000px;
+   margin-top: -80px;
+}
+.secondnav a{
+    color: white;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition-duration: 0.5s;
+}
+.secondnav a:hover{
+    box-shadow: 10px 10px 10px rgb(76, 76, 76);
+    color: white;
+    background-color: tomato;
+}
+.fourthhalf{
+    box-shadow: 8px 8px 8px 8px rgb(121, 120, 120);
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    transition-duration: 0.5s;
+}
+.fourthhalf:hover{
+    box-shadow: 8px 8px 8px 8px tomato;
+}
+.fourthhalf pre{
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.fourthimg{
+    margin-left: 500px;
+    margin-top: -400px;
+}
+.fourthimage{
+    width: 1000px;
+}
+.fourthpara{
+    text-align: justify;
+    width: 350px;
+    height: 400px;
+    margin-left: 1130px;
+    margin-top: -400px;
+}
+.fourthbutton{text-decoration: none;
+    border: none;
+    color: white;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition-duration: 0.5s;
+}
+.fourthbutton:hover{
+    border-radius: 20px;
+    background-color: tomato;
+    box-shadow: 8px 8px 8px rgb(100, 99, 99);
+}
+.fifthpage h2{
+    margin-top: 70px;
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+}
+
+.firstvilla{
+    border-radius: 20px;
+    width: 500px;
+    height: 670px;
+    margin-left: 100px;
+    margin-top: 60px;
+    background-color: rgb(221, 221, 221);
+    transition-duration: 0.5s;
+}
+.firstvilla:hover{
+    box-shadow: 10px 10px 10px rgb(240, 149, 64);
+}
+.firstvilla img{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+.villabutton1{
+    background-color: rgb(237, 178, 168);
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size:larger;
+    transition-duration: 0.5s;
+}
+.villabutton1:hover{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.price1{
+    font-size: x-large;
+    margin-left: 350px;
+    margin-top: -35px;
+    color: tomato;
+}
+.Aboutheading1{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+.Spec1{
+    font-family:'Courier New', Courier, monospace ;
+    margin-left: 30px;
+}
+.villalast1{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 160px;
+    margin-top: 5px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: black;
+    transition-duration: 0.5s;
+}
+.villalast1:hover{
+    background-color: tomato;
+    color: black;
+    box-shadow: 10px 10px 10px rgb(122, 121, 121);
+    
+}
+
+
+.secondvilla{
+    border-radius: 20px;
+    width: 500px;
+    height: 670px;
+    margin-left: 30px;
+    margin-top: 60px;
+    background-color: rgb(215, 215, 215);
+    transition-duration: 0.5s;
+    margin-left: 900px;
+    margin-top: -650px;
+}
+.secondvilla:hover{
+    box-shadow: 10px 10px 10px rgb(240, 149, 64);
+}
+.secondvilla img{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+.villabutton2{
+    background-color: rgb(237, 178, 168);
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size:larger;
+    transition-duration: 0.5s;
+}
+.villabutton2:hover{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.price2{
+    font-size: x-large;
+    margin-left: 350px;
+    margin-top: -35px;
+    color: tomato;
+}
+.Aboutheading2{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+.Spec2{
+    font-family:'Courier New', Courier, monospace ;
+    margin-left: 30px;
+}
+.villalast2{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 160px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: black;
+    transition-duration: 0.5s;
+}
+.villalast2:hover{
+    background-color: tomato;
+    color: black;
+    box-shadow: 10px 10px 10px rgb(122, 121, 121);
+    
+}
+
+
+.thirdvilla{
+    border-radius: 20px;
+    width: 500px;
+    height: 670px;
+    margin-left: 30px;
+    margin-top: 50px;
+    background-color: rgb(204, 206, 206);
+    transition-duration: 0.5s;
+    margin-left: 500px;
+}
+.thirdvilla:hover{
+    box-shadow: 10px 10px 10px rgb(240, 149, 64);
+}
+.thirdvilla img{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+.villabutton3{
+    background-color: rgb(237, 178, 168);
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size:larger;
+    transition-duration: 0.5s;
+}
+.villabutton3:hover{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.price3{
+    font-size: x-large;
+    margin-left: 350px;
+    margin-top: -35px;
+    color: tomato;
+}
+.Aboutheading3{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+.Spec3{
+    font-family:'Courier New', Courier, monospace ;
+    margin-left: 30px;
+}
+.villalast3{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 160px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: black;
+    transition-duration: 0.5s;
+}
+.villalast3:hover{
+    background-color: tomato;
+    color: black;
+    box-shadow: 10px 10px 10px rgb(122, 121, 121);
+    
+}
+
+
+.lastpage{
+    margin-top: 50px;
+    height: 1200px;
+}
+.lastimage{
+    filter: blur(10px);
+    margin-left: 100px;
+}
+.lastpara{
+    position: sticky;
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: -500px;
+    text-align: center;
+}
+.lasti{
+    position: sticky;
+    margin-top: 100px;
+    margin-left: 170px;
+    transition-duration: 0.5s;
+}
+.lasti:hover{
+    box-shadow: 10px 10px 10px rgb(77, 77, 76);
+}
+.lastform{
+    padding-top: 20px;
+    border-radius: 20px;
+    width: 370px;
+    height: 500px;
+    margin-left: 850px;
+    margin-top: -455px;
+    background-color: rgb(226, 230, 230);
+    transition-duration: 0.5s;
+    position: sticky;
+}
+.lastform:hover{
+    box-shadow: 12px 12px 12px rgb(123, 121, 121);
+}
+.lastform label{
+    padding-left: 20px;
+}
+.inputs{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+    transition-duration: 0.5s;
+}
+.inputs:hover{
+    box-shadow: 10px 10px 10px rgb(103, 102, 102);
+    background-color: black;
+    color: white;
+}
+.lastlastbutton{
+    margin-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    transition-duration: 0.5s;
+}
+.lastlastbutton:hover{
+    color: black;
+    background-color: tomato;
+    box-shadow: 10px 10px 10px rgb(110, 109, 109);
+}
+
+.lastbox1{
+    width: 200px;
+    background-color: rgb(246, 246, 246);
+    margin-left: 200px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(42, 41, 41);
+    transition-duration: 0.5s;
+}
+.lastbox1:hover{
+    color: white;
+    background-color: black;
+}
+.lastbox1 i{
+    color: tomato;
+    padding-right: 20px;
+    font-size: x-large;
+}
+
+.lastbox2{
+    width: 300px;
+    background-color: rgb(246, 246, 246);
+    margin-top: -60px;
+    margin-left: 450px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(42, 41, 41);
+    transition-duration: 0.5s;
+}
+.lastbox2:hover{
+    color: white;
+    background-color: black;
+}
+.lastbox2 i{
+    color: tomato;
+    padding-right: 20px;
+    font-size: x-large;
+}
+
+
